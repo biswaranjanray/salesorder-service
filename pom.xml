@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>salesorder-service</finalName>
 	</build>
 
 </project>
